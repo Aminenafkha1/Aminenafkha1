@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm Amine Nafkha, a passionate full-stack .NET dev
 
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to say hi!
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Amine Nafkha](https://www.linkedin.com/in/your-linkedin-profile)
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-- Personal Website: [https://your-website.com](https://your-website.com)
+- Email: [aminenafkha21@gmail.com] 
+- LinkedIn: [Amine Nafkha]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/amine-nafkha/))
+ - Personal Website: [https://aminenafkha.com](https://aminenafkha.com)
