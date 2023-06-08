@@ -1,6 +1,6 @@
 # Amine Nafkha - Full Stack .NET Developer
 
-![Profile Image](./1625836308628.jpg)
+<img src="./1625836308628.jpg" alt="Profile Image" width="200" height="200" style="border-radius: 50%;">
 
 Welcome to my GitHub profile! I'm Amine Nafkha, a passionate full-stack .NET developer with expertise in C# and Blazor. I love building robust and scalable web applications using the .NET stack.
 
